@@ -16,7 +16,7 @@ Alunos:
 17 ou mais recente
 
 ### Postgres
-    É necessária uma instância do banco de dados Postgres em execução para o funcionamento correto da API. As credencias para acesso ao banco podem ser encontradas dentro do arquivo `application.properties`
+É necessária uma instância do banco de dados Postgres em execução para o funcionamento correto da API. As credencias para acesso ao banco podem ser encontradas dentro do arquivo `application.properties`
 
 ### Executando
 
